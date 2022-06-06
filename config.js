@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Hè này có muốn t về không?',
     btnYes: 'Cóoo',
     btnNo: 'Không nha :3',
-    question: 'Có bao nhiu người mà sao m chọn quen t',
+    question: 'Có bao nhiu người mà sao m chọn quen t?',
     btnReply: 'Gửi',
     reply: 'Phái Phái <33333333',
     mess: 'T biết mà 😌 😘😘',
